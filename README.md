@@ -10,7 +10,7 @@ DER (diacritic error rate, no case endings) on held-out, hand-written dialect go
 
 | dialect | CATT (MSA, forced) | CAMeL-Tools dialect model | **Bayan dialect-CATT** |
 |---|---|---|---|
-| Gulf (Saudi) | 11.7% | frequently returns undiacritized text | **2.5%** |
+| Gulf  | 11.7% | frequently returns undiacritized text | **2.5%** |
 | Egyptian | 14.7% | decent but 12× slower | **1.6%** |
 | Levantine | 17.0% | frequently returns undiacritized text | **1.5%** |
 
